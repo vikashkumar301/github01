@@ -71,7 +71,9 @@
     <h2>🌍 Multilingual Support</h2>
     <p>Supports 100+ languages with real-time translation features.</p>
   </div>
-
+<a href="page2.html">Go to Page 2</a>
+<a href="#about">About</a>
+<a href="contact.html">Contact Us</a>
   <footer>
     &copy; 2025 INFINORA. All rights reserved. Made for the universe 🌌
   </footer>
